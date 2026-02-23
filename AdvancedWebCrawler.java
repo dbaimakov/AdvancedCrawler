@@ -13,7 +13,7 @@ import java.util.concurrent.*;
 import java.util.regex.Pattern;
 
 class CrawlerConfig {
-    public String userAgent = "Mozilla/5.0 (CDVA WAIS Security AdvancedJavaCrawler/1.0)";
+    public String userAgent = "Mozilla/5.0 (DmitriyBaimakov's AdvancedJavaCrawler/1.0)";
     public int maxDepth = 3;
     public int requestTimeoutMillis = 5000;
     public int maxRetries = 3;
