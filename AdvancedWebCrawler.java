@@ -21,7 +21,7 @@ class CrawlerConfig {
     public long domainDelayMillis = 1000;
     public boolean respectRobotsTxt = true;
     public boolean sameDomainOnly = true;
-    public String startUrl = "https://iaac-aeic.gc.ca/050/evaluations/index?culture=en-CA";
+    public String startUrl = "testurl.comA";
 
     public CrawlerConfig() {}
 }
